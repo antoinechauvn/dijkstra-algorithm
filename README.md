@@ -6,3 +6,5 @@
 
 ![image](https://user-images.githubusercontent.com/83721477/145497860-d9322879-ae5c-420e-a3fc-0328e483b39e.png)
 >L'algorithme de Dijkstra pour trouver le chemin le plus court entre a et b. Il choisit le sommet non visité avec la distance la plus faible, calcule la distance à travers lui à chaque voisin non visité, et met à jour la distance du voisin si elle est plus petite. Il marque le sommet visité (en rouge) lorsque il a terminé avec les voisins.
+
+###### © 2021 wikipédia
